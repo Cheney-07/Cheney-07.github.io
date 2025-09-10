@@ -1,12 +1,12 @@
 ---
 layout:       post
-title:        "服务端与客户端的配置"
+title:        "Cobalt Strike服务端与客户端的配置"
 author:       "Cheney"
 header-style: text
 catalog:      true
 tags:
     - Web
-    - JavaScript
+    - Cobalt Strike use
 ---
 
 首先将下载好的CS文件解压至linux系统(此处我以kali linux为例), 切换至CS文件夹目录打开终端, 输出如下命令用于搭建CS服务器
