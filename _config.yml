@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: ablklice@gmail.com
 description: "这里是 Cheney 的个人博客，与你一起发现更大的世界"
 keyword: "Cheney test BLOG"
-url: "https://bilibili.com/" # your host, for absolute URL
+url: "https://cheney-07.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -75,7 +75,7 @@ ga_domain: Cheney.me
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "用来上传笔记的个人博客 <br> QWQ"
-sidebar-avatar: https://github.com/Cheney-07/Cheney-07.github.io/blob/master/Cheney.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://github.com/Cheney-07.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
