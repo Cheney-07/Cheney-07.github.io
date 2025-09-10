@@ -3,9 +3,9 @@ title: Cheney Blog
 SEOTitle: 辰的博客 | Cheney's Blog
 header-img: img/home-bg.jpg
 email: ablklice@gmail.com
-description: "这里是 Cheney 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
+description: "这里是 Cheney 的个人博客，与你一起发现更大的世界"
 keyword: "Cheney test BLOG"
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://bilibili.com/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
-#facebook_username:  huxpro
+weibo_username: Cheney
+zhihu_username: Cheney
+github_username: Cheney-07
+twitter_username: Cheney
+#facebook_username:  Cheney
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: Cheney
 
 # Netease settings
 netease_comment: false
@@ -70,12 +70,12 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: Cheney.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "用来上传笔记的个人博客 <br> QWQ"
+sidebar-avatar: https://github.com/Cheney-07/Cheney-07.github.io/blob/master/Cheney.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -91,12 +91,8 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
+    { title: "xiang zi", href: "http://bilibili.com/" },
+    { title: "quanzi", href: "https://goole.com/" },
+    { title: "ji he", href: "http://baidu.com" },
+    { title: "wei long", href: "https://chatgpt.com/" },
   ]
